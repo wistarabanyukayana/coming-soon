@@ -9,6 +9,7 @@ export default function Home() {
         width={500}
         height={500}
         className="bg-slate-200 rounded-full mb-6 shadow-xl/50 dark:shadow-slate-50 shadow-slate-700 transition-all duration-300 hover:scale-105 transform animate-pulse"
+        priority
       />
       <h1 className="text-4xl font-bold mb-2">
         Padelix Indonesia dalam Konstruksi
